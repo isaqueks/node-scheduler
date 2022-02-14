@@ -1,0 +1,26 @@
+{
+  "name": "nodescheduler",
+  "version": "0.0.1",
+  "description": "NodeJS promise scheduler",
+  "main": "index.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "scheduler",
+    "promise",
+    "typescript"
+  ],
+  "author": "isaqueks",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.17",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3"
+  }
+}

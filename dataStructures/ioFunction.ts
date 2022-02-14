@@ -1,0 +1,1 @@
+export type IOFunction<I, O> = (input: I) => Promise<O>;
